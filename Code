@@ -1,0 +1,34 @@
+from tkinter import*
+
+#Tk (Window App) Giving Name
+window = Tk()
+
+#Tk (Window App) Titel
+window.title('What titel u like')
+
+#Tk(Window App) Res
+window.geometry("300x420")
+
+#Tk(Window App) Label
+Mylabel = Label(window, text="What words u like to showup")
+Mylabel.pack()
+
+#Tk(Window App) Function
+def Fun1():
+    OhK = Label(window, text="What message will appear when button is pressed")
+    OhK.pack()
+
+#Tk(Window App) Label
+FuckBaraa = Label(window, text="What words u like to showup")
+FuckBaraa.pack()
+
+
+#Tk(Window App) TextBox
+myTextBox = Entry(window, width=30)
+myTextBox.pack()
+
+#Tk(Window App) Button
+Button1 = Button(window, text="Button Text", command=Fun1)
+Button1.pack()
+
+window.mainloop()
