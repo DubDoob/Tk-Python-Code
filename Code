@@ -19,8 +19,8 @@ def Fun1():
     OhK.pack()
 
 #Tk(Window App) Label
-FuckBaraa = Label(window, text="What words u like to showup")
-FuckBaraa.pack()
+Name = Label(window, text="What words u like to showup")
+Name.pack()
 
 
 #Tk(Window App) TextBox
