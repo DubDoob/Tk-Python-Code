@@ -6,6 +6,11 @@ window = Tk()
 #Tk (Window App) Titel
 window.title('What titel u like')
 
+
+#Tk (Window App) Icon
+window.icon('.ico')
+
+
 #Tk(Window App) Res
 window.geometry("300x420")
 
