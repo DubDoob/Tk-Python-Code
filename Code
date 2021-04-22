@@ -8,7 +8,7 @@ window.title('What titel u like')
 
 
 #Tk (Window App) Icon
-window.icon('.ico')
+window.iconbitmap('.ico')
 
 
 #Tk(Window App) Res
