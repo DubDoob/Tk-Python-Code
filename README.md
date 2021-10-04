@@ -1,6 +1,6 @@
 By : DubDoob
 
-Discord server : https://discord.gg/YfZ4yCKYEd
+Discord server : https://discord.gg/FgQA9XEBee
 
 I hope that this code will teach you something.
 
